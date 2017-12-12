@@ -1,0 +1,14 @@
+{
+  "name": "htmllearning",
+  "version": "1.0.0",
+  "description": "Kyle is helping me learn HTML and how to create a webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin MacDonald",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
